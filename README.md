@@ -140,8 +140,6 @@ This repository includes:
 - V1 rocket files
 - V2 rocket files
 - V3 rocket files
-- Nose cone STL files
-- Fin section STL files
 - Photos
 - Flight videos
 - Rocket documentation
