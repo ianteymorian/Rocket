@@ -14,7 +14,7 @@ This repository contains all the 3D printable files, flight tips, and documentat
 
 V3 is the latest version and is a major redesign compared with V1 and V2.
 
-The biggest change is that V3 no longer uses a fully 3D-printed main body. Instead, it uses a **25 cm long carbon fiber tube**, making the design lighter and stronger.
+The biggest change is that V3 no longer uses a fully 3D-printed main body. Instead, it uses a **25 cm long carbon fiber tube**.
 
 ### Required Carbon Fiber Tube
 
@@ -54,42 +54,47 @@ V3 is designed to work with:
 - A6-3
 - B6-4
 
-## Launch Setup
-
-The launch stand is a simple tripod design with a vertical launch rod.
-
-I use a standard wired launch controller. The igniter is connected to the motor following normal model rocket safety procedures.
-
 ## 3D Printing Instructions
 
 ### Recommended Material
 
-- **Bambu Lab PLA Aero** is highly recommended.
+- **Bambu Lab PLA Aero** is highly recommended
 
 ### Print Settings
 
 - Use standard PLA settings
 - **3 walls**
 - **10–16% infill**
-- Sand all rough edges after printing for a smoother finish and better aerodynamics
+- Sand rough edges after printing for a smoother finish and better aerodynamics
 
-### V3 Printing
+## Nose Cone Fit
 
-For V3, only these parts need to be printed:
+This applies to **all rocket versions**.
 
-- Nose cone
-- Upper fin section
-- Lower fin section
+Depending on your printer accuracy and tolerances, the nose cone may fit slightly loose.
 
-The main rocket body is the **25 cm carbon fiber tube**.
+If the nose cone is loose, use **electrical tape** around the fitting surface. Electrical tape works especially well because its slightly grippy surface helps the nose cone stay secure.
+
+### Recommended Tape Amount
+
+- Start with around **3 layers**
+- Use up to about **5 layers** if needed
+- The exact amount depends on your printer accuracy and how tight or loose the fit is
+
+Add the tape gradually and test the nose cone after each layer until it fits securely but can still be removed normally.
+
+## Launch Setup
+
+The launch stand is a simple tripod design with a vertical launch rod.
+
+I use a standard wired launch controller. The igniter is connected to the motor following normal model rocket safety procedures.
 
 ## Flight Tips
 
 For more stable and higher flights:
 
-- Add **launch lugs** or rail buttons near the bottom of the rocket body
 - Make sure the fins are properly aligned
-- Make sure the rocket has enough nose weight for stability
+- Make sure the rocket has enough **weight toward the front/nose** for stability
 - Check that all parts are securely attached before launch
 
 ### Personal Best
@@ -101,6 +106,7 @@ My personal best altitude so far is approximately:
 ## Recovery System
 
 - **Main parachute:** 100 cm wide
+- **Parachute material:** Nylon
 - The parachute is attached to the nose cone with a nylon cord
 
 ### Packing Method
@@ -108,6 +114,8 @@ My personal best altitude so far is approximately:
 1. Roll the parachute tightly
 2. Fold it in half
 3. Insert it into the rocket body
+
+Make sure the parachute can deploy freely and is not packed too tightly.
 
 ## Filming & Photography
 
