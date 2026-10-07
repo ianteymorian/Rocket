@@ -101,7 +101,7 @@ For more stable and higher flights:
 
 My personal best altitude so far is approximately:
 
-**~100 meters**
+**~50 meters**
 
 ## Recovery System
 
